@@ -1,6 +1,6 @@
 Please be aware that this package **is not** designed to handle uploading or image manipulation. It's simply designed to compliment other packages and tools that already exist in Laravel. If you're looking for a more feature-complete attachments solution, take a look at [CodeSleeve/stapler](https://github.com/CodeSleeve/stapler).
 
-## Installation
+## 安装
 
 ### Step 1: Install the package
 
